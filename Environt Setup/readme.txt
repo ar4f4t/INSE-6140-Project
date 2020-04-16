@@ -7,3 +7,8 @@ Webserver Setup :
 5) Create a new blank database from mysql admin panel for this webapp.
 6) Initial load of the page forces a user to configure the web app with an admin username. password and location to a database. 
 
+Kali Linux Setup:
+
+1) Installed in Virual Box as a guest OS.
+2) Modified the hosts file to redirect a domain name to the ip address of the host machine. (i.e. 192.168.0.61 <-> arafat.com)
+3) Traceroute command confirms that we are accessing the domain in our local machine.
